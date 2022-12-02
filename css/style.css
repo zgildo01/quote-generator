@@ -33,6 +33,9 @@ body {
   width: 6rem;
   border-radius: 1rem;
   font-size: 1rem;
+  background-color: #b967ff;
+  border: 0.25rem solid #05ffa1;
+  cursor: pointer;
 }
 
 #output {

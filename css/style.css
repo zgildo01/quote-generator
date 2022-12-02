@@ -32,9 +32,14 @@ body {
   height: 3rem;
   width: 6rem;
   border-radius: 1rem;
+  font-size: 1rem;
 }
 
 #output {
   margin: 2rem;
   font-size: 1.5rem;
+}
+
+#header {
+  color: #05ffa1;
 }

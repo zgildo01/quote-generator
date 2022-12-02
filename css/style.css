@@ -1,0 +1,27 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+html, html::after, html::before {
+  height: 100vh;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fd9cde;
+  height: 100%;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 75%;
+  height: 10rem;
+  background-color: #4AC9E3;
+  border: 5px solid #05ffa1;
+}

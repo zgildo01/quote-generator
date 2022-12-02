@@ -33,3 +33,8 @@ body {
   width: 6rem;
   border-radius: 1rem;
 }
+
+#output {
+  margin: 1rem;
+  font-size: 1.5rem;
+}
